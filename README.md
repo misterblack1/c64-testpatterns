@@ -11,7 +11,7 @@ A disk image for `Chroma` / `Luma` artifact testing.
 
 ## Program
 
-The images consists of a ***simple program*** <br>
+The image consists of a ***simple program*** <br>
 that uses redefined characters to create <br>
 `1x1` checkerboard / stripe patterns.
 
@@ -34,7 +34,7 @@ For machines of this type, you require <br>
 
 #### NTSC
 
-*`Luma` backfeed into `chroma` on* ***GOES***​*.*
+*`Luma` backfeed into `chroma` on* ***GOES*** *.*
 
 ![NTSC A]
 
