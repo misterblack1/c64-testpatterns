@@ -44,6 +44,6 @@ For machines of this type, you require <br>
 
 <!---------------------------------[ Buttons ]--------------------------------->
 
-[Button Gallery]: https://img.shields.io/badge/Screenshots-466BB0?style=for-the-badge&logoColor=white&logo=DocuSign
+[Button Gallery]: https://img.shields.io/badge/Screenshots-466BB0?style=for-the-badge&logoColor=white&logo=GoogleClassroom
 [Button Video]: https://img.shields.io/badge/Demonstration-C3002F?style=for-the-badge&logoColor=white&logo=YouTube
 [Button Disk]: https://img.shields.io/badge/Disk_Image-589632?style=for-the-badge&logoColor=white&logo=Discogs
