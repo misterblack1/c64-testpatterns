@@ -1,14 +1,14 @@
 
 # C64 Test Patterns
 
-A disk image for `Chroma` / `Luma` artifact testing.
+*A disk image for  `Chroma`  /  `Luma`  artifact testing.*
 
 <br>
 <br>
 
 <div align = center>
 
-[![Button Video]][Video] 
+[![Button Video]][Video]   
 [![Button Disk]][Disk]   
 [![Button Gallery]][Gallery] 
 
